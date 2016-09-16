@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тестовая Аппликуха</string>
+    <string name="enter_url_txt">Введите URL JSON файла</string>
+    <string name="item_email_lbl">Почта:</string>
+    <string name="item_first_name_lbl">Имя:</string>
+    <string name="item_id_lbl">id:</string>
+    <string name="item_ip_address_lbl">ip адрес:</string>
+    <string name="item_last_name_lbl">Фамилия:</string>
+    <string name="item_gender_lbl">Пол:</string>
+    <string name="title_item_detail">Информация о сотруднике:</string>
+    <string name="title_item_list">Сотрудники:</string>
+    <string name="progress_message_1">Загрузка...</string>
+    <string name="log_received_result_message_1">Полученный \'result\':</string>
+    <string name="log_request_error_message_1">Ошибка запроса:</string>
+    <string name="incorrect_url_message_1">Некорректный URL</string>
+    <string name="settings">Настройки:</string>
+    <string name="enter_url_offer_1">Введите URL\nИ\nНажмите кнопку "Запрос"</string>
+    <string name="request_btn_lbl">Запрос</string>
+</resources>

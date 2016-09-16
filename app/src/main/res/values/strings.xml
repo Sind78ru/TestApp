@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="title_item_list">Employees</string>
+    <string name="title_item_detail">Employee Detail</string>
+    <string name="enter_url_txt">Enter JSON file URL</string>
+    <string name="item_id_lbl">ID:</string>
+    <string name="item_first_name_lbl">First Name:</string>
+    <string name="item_last_name_lbl">Last Name:</string>
+    <string name="item_email_lbl">Email:</string>
+    <string name="item_gender_lbl">Gender:</string>
+    <string name="item_ip_address_lbl">IP Address:</string>
+    <string name="progress_message_1">Loading...</string>
+    <string name="log_received_result_message_1">Received result:</string>
+    <string name="log_request_error_message_1">Request error:</string>
+    <string name="incorrect_url_message_1">Invalid URL</string>
+    <string name="settings">Settings</string>
+    <string name="enter_url_offer_1">Enter URL\nAnd\nPush the button "Request"</string>
+    <string name="request_btn_lbl">Request</string>
+</resources>
